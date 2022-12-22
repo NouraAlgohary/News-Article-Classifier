@@ -11,5 +11,5 @@ Using LSTM is not effcient for such a small data set, so replaced it with Multin
 
 ## Features:
 - 1490 instances
-- 3 columns(ArticleId, Text, Category)
+- 3 columns(ArticleId, Article, Category)
 - 5 Categories ('business', 'tech', 'politics', 'sport', 'entertainment')
